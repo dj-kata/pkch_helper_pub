@@ -10961,7 +10961,7 @@
       "kind": "battle",
       "region": "battle_own_active_icon"
     },
-        {
+    {
       "pokemon_id": "n579",
       "pokemon_name": "ランクルス",
       "hash": "c4f53554503d4f4b",
@@ -10991,6 +10991,78 @@
       "hash": "cc3c0db6d1a454eb",
       "kind": "battle",
       "region": "battle_opponent_active_icon_2",
+      "source": null
+    },
+    {
+      "pokemon_id": "n130",
+      "pokemon_name": "ギャラドス",
+      "hash": "ccec6bc32426475e",
+      "kind": "selection_standby",
+      "region": "standby_opponent_icon_6",
+      "source": null
+    },
+    {
+      "pokemon_id": "n130m",
+      "pokemon_name": "メガギャラドス",
+      "hash": "ac30e46fd094f276",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon",
+      "source": null
+    },
+    {
+      "pokemon_id": "n310",
+      "pokemon_name": "ライボルト",
+      "hash": "81c5422fb272cdaf",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon",
+      "source": null
+    },
+    {
+      "pokemon_id": "n479f",
+      "pokemon_name": "ロトム (フロストロトム)",
+      "hash": "c5dd7e5e55310864",
+      "kind": "selection",
+      "region": "selection_opponent_icon_2",
+      "source": null
+    },
+    {
+      "pokemon_id": "n6",
+      "pokemon_name": "リザードン",
+      "hash": "c639b6893ec03adc",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_2",
+      "source": null
+    },
+    {
+      "pokemon_id": "n478",
+      "pokemon_name": "ユキメノコ",
+      "hash": "8c73598114da7b3b",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon",
+      "source": null
+    },
+    {
+      "pokemon_id": "n478m",
+      "pokemon_name": "メガユキメノコ",
+      "hash": "8c76b311c84f9dac",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon",
+      "source": null
+    },
+    {
+      "pokemon_id": "n1025",
+      "pokemon_name": "ヤバソチャ",
+      "hash": "9d4e68b8b5234e4d",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon_2",
+      "source": null
+    },
+    {
+      "pokemon_id": "n479f",
+      "pokemon_name": "ロトム (フロストロトム)",
+      "hash": "eb89de7e73112504",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon",
       "source": null
     }
   ]
