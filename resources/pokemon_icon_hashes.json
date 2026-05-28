@@ -10960,6 +10960,38 @@
       "hash": "bbad4d63912156d1",
       "kind": "battle",
       "region": "battle_own_active_icon"
+    },
+        {
+      "pokemon_id": "n579",
+      "pokemon_name": "ランクルス",
+      "hash": "c4f53554503d4f4b",
+      "kind": "selection",
+      "region": "selection_opponent_icon_1",
+      "source": null
+    },
+    {
+      "pokemon_id": "n946",
+      "pokemon_name": "イッカネズミ",
+      "hash": "d52a28d52718dbab",
+      "kind": "selection_standby",
+      "region": "standby_opponent_icon_5",
+      "source": null
+    },
+    {
+      "pokemon_id": "n115m",
+      "pokemon_name": "メガガルーラ",
+      "hash": "c4c03f375d1ac4ea",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon",
+      "source": null
+    },
+    {
+      "pokemon_id": "n730",
+      "pokemon_name": "アシレーヌ",
+      "hash": "cc3c0db6d1a454eb",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon_2",
+      "source": null
     }
   ]
 }
