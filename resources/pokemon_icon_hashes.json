@@ -11086,6 +11086,34 @@
       "hash": "bf5ac0879841677c",
       "kind": "selection_standby",
       "region": "standby_own_icon_3"
+    },
+    {
+      "pokemon_id": "n94",
+      "pokemon_name": "ゲンガー",
+      "hash": "c5813dc1f91a3dca",
+      "kind": "selection",
+      "region": "selection_opponent_icon_2"
+    },
+    {
+      "pokemon_id": "n635",
+      "pokemon_name": "サザンドラ",
+      "hash": "fbe874430511b2af",
+      "kind": "selection_standby",
+      "region": "standby_opponent_icon_6"
+    },
+    {
+      "pokemon_id": "n700",
+      "pokemon_name": "ニンフィア",
+      "hash": "ce93319363c99393",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n635",
+      "pokemon_name": "サザンドラ",
+      "hash": "ef6964c704089abf",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon_2"
     }
   ]
 }
