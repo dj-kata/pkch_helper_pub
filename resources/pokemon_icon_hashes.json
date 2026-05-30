@@ -11114,6 +11114,97 @@
       "hash": "ef6964c704089abf",
       "kind": "battle",
       "region": "battle_opponent_active_icon_2"
+    },
+    {
+      "pokemon_id": "n302",
+      "pokemon_name": "ヤミラミ",
+      "hash": "da9c640cdbc72c78",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n470",
+      "pokemon_name": "リーフィア",
+      "hash": "c268169275e6ce75",
+      "kind": "selection",
+      "region": "selection_opponent_icon_2"
+    },
+    {
+      "pokemon_id": "n134",
+      "pokemon_name": "シャワーズ",
+      "hash": "cc0f31d34efc904b",
+      "kind": "selection_standby",
+      "region": "standby_opponent_icon_1"
+    },
+    {
+      "pokemon_id": "n136",
+      "pokemon_name": "ブースター",
+      "hash": "a1a5278f1bd0fa32",
+      "kind": "selection_standby",
+      "region": "standby_opponent_icon_3"
+    },
+    {
+      "pokemon_id": "n196",
+      "pokemon_name": "エーフィ",
+      "hash": "c33c378938f3c067",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n212",
+      "pokemon_name": "ハッサム",
+      "hash": "f06df1c8029bdd52",
+      "kind": "battle",
+      "region": "battle_own_active_icon"
+    },
+    {
+      "pokemon_id": "n212m",
+      "pokemon_name": "メガハッサム",
+      "hash": "fa25f9ebe061411a",
+      "kind": "battle",
+      "region": "battle_own_active_icon"
+    },
+    {
+      "pokemon_id": "n823",
+      "pokemon_name": "アーマーガア",
+      "hash": "8dc4c97a4ceb1e31",
+      "kind": "selection",
+      "region": "selection_opponent_icon_5"
+    },
+    {
+      "pokemon_id": "n655m",
+      "pokemon_name": "メガマフォクシー",
+      "hash": "9bd9e928d42a4b35",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n59h",
+      "pokemon_name": "ウインディ (ヒスイのすがた)",
+      "hash": "90c93308febf92c9",
+      "kind": "selection",
+      "region": "selection_opponent_icon_3"
+    },
+    {
+      "pokemon_id": "n59h",
+      "pokemon_name": "ウインディ (ヒスイのすがた)",
+      "hash": "c0c9a629ec379acd",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n154",
+      "pokemon_name": "メガニウム",
+      "hash": "8d4b66a34c9b3c9c",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n778",
+      "pokemon_name": "ミミッキュ",
+      "hash": "c73a6013d46f6a96",
+      "kind": "battle",
+      "region": "battle_own_active_icon"
     }
   ]
 }
