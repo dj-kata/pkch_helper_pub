@@ -11240,6 +11240,13 @@
       "hash": "d3fc7503051192df",
       "kind": "selection",
       "region": "selection_opponent_icon_2"
+    },
+    {
+      "pokemon_id": "n944",
+      "pokemon_name": "ミミズズ",
+      "hash": "c55b1f6256c13a47",
+      "kind": "selection",
+      "region": "selection_opponent_icon_2"
     }
   ]
 }
