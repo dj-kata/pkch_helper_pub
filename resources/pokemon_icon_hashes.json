@@ -11247,6 +11247,41 @@
       "hash": "c55b1f6256c13a47",
       "kind": "selection",
       "region": "selection_opponent_icon_2"
+    },
+    {
+      "pokemon_id": "n695",
+      "pokemon_name": "エレザード",
+      "hash": "8f5865ce49b38e61",
+      "kind": "selection",
+      "region": "selection_opponent_icon_1"
+    },
+    {
+      "pokemon_id": "n212",
+      "pokemon_name": "ハッサム",
+      "hash": "af988d0598ed535a",
+      "kind": "selection",
+      "region": "selection_opponent_icon_2"
+    },
+    {
+      "pokemon_id": "n94",
+      "pokemon_name": "ゲンガー",
+      "hash": "c5c13dc1d91a3dca",
+      "kind": "selection",
+      "region": "selection_opponent_icon_1"
+    },
+    {
+      "pokemon_id": "n471",
+      "pokemon_name": "グレイシア",
+      "hash": "c92e07d87771e48a",
+      "kind": "selection",
+      "region": "selection_opponent_icon_2"
+    },
+    {
+      "pokemon_id": "n663",
+      "pokemon_name": "ファイアロー",
+      "hash": "c9e63d0726338e63",
+      "kind": "selection",
+      "region": "selection_opponent_icon_5"
     }
   ]
 }
