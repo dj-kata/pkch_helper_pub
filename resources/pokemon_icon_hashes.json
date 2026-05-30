@@ -11205,6 +11205,27 @@
       "hash": "c73a6013d46f6a96",
       "kind": "battle",
       "region": "battle_own_active_icon"
+    },
+    {
+      "pokemon_id": "n660",
+      "pokemon_name": "ホルード",
+      "hash": "9c6a6585591bad5a",
+      "kind": "selection",
+      "region": "selection_opponent_icon_3"
+    },
+    {
+      "pokemon_id": "n160",
+      "pokemon_name": "オーダイル",
+      "hash": "cad470953d1f3b60",
+      "kind": "selection",
+      "region": "selection_opponent_icon_2"
+    },
+    {
+      "pokemon_id": "n900",
+      "pokemon_name": "バサギリ",
+      "hash": "937e627b85b14664",
+      "kind": "selection",
+      "region": "selection_opponent_icon_5"
     }
   ]
 }
