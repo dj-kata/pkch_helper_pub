@@ -11233,6 +11233,13 @@
       "hash": "c9cc533a3474c5cd",
       "kind": "selection",
       "region": "selection_opponent_icon_2"
+    },
+    {
+      "pokemon_id": "n635",
+      "pokemon_name": "サザンドラ",
+      "hash": "d3fc7503051192df",
+      "kind": "selection",
+      "region": "selection_opponent_icon_2"
     }
   ]
 }
