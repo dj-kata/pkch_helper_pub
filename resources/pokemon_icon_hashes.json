@@ -11226,6 +11226,13 @@
       "hash": "937e627b85b14664",
       "kind": "selection",
       "region": "selection_opponent_icon_5"
+    },
+    {
+      "pokemon_id": "n128c",
+      "pokemon_name": "ケンタロス (パルデアのすがた水)",
+      "hash": "c9cc533a3474c5cd",
+      "kind": "selection",
+      "region": "selection_opponent_icon_2"
     }
   ]
 }
