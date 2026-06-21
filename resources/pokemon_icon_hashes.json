@@ -11317,6 +11317,314 @@
       "hash": "d5c202872fd5b5d2",
       "kind": "selection",
       "region": "selection_opponent_icon_4"
+    },
+    {
+      "pokemon_id": "n711",
+      "pokemon_name": "パンプジン(普通)",
+      "hash": "9c184bbb7c4c39c5",
+      "kind": "selection",
+      "region": "selection_opponent_icon_1"
+    },
+    {
+      "pokemon_id": "n902f",
+      "pokemon_name": "イダイトウ♀",
+      "hash": "98c81a9d5b3b556a",
+      "kind": "selection",
+      "region": "selection_opponent_icon_6"
+    },
+    {
+      "pokemon_id": "n823",
+      "pokemon_name": "アーマーガア",
+      "hash": "a5c4517a554f1af1",
+      "kind": "selection",
+      "region": "selection_opponent_icon_5"
+    },
+    {
+      "pokemon_id": "n68",
+      "pokemon_name": "カイリキー",
+      "hash": "8791e3a572318cfc",
+      "kind": "selection_standby",
+      "region": "standby_opponent_icon_4"
+    },
+    {
+      "pokemon_id": "n68",
+      "pokemon_name": "カイリキー",
+      "hash": "8f9382ad63339d1c",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n260",
+      "pokemon_name": "ラグラージ",
+      "hash": "8b6823bd4d679730",
+      "kind": "battle",
+      "region": "battle_own_active_icon"
+    },
+    {
+      "pokemon_id": "n711",
+      "pokemon_name": "パンプジン(普通)",
+      "hash": "99915ba274cc39c7",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n398",
+      "pokemon_name": "ムクホーク",
+      "hash": "d3e76800843f9ee3",
+      "kind": "selection",
+      "region": "selection_opponent_icon_1"
+    },
+    {
+      "pokemon_id": "n398",
+      "pokemon_name": "ムクホーク",
+      "hash": "b3f3bca0021e5bc3",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_4"
+    },
+    {
+      "pokemon_id": "n398m",
+      "pokemon_name": "メガムクホーク",
+      "hash": "e3c72506981f0dfc",
+      "kind": "battle",
+      "region": "battle_own_active_icon"
+    },
+    {
+      "pokemon_id": "n701",
+      "pokemon_name": "ルチャブル",
+      "hash": "996532f5068976d9",
+      "kind": "selection",
+      "region": "selection_opponent_icon_5"
+    },
+    {
+      "pokemon_id": "n186",
+      "pokemon_name": "ニョロトノ",
+      "hash": "83d57e927e289643",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_1"
+    },
+    {
+      "pokemon_id": "n71",
+      "pokemon_name": "ウツボット",
+      "hash": "cb993d28f0322db9",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n701",
+      "pokemon_name": "ルチャブル",
+      "hash": "99e5d619a6996619",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n26",
+      "pokemon_name": "ライチュウ",
+      "hash": "c93d19ce2cc435cd",
+      "kind": "selection",
+      "region": "selection_opponent_icon_5"
+    },
+    {
+      "pokemon_id": "n678",
+      "pokemon_name": "ニャオニクス♂",
+      "hash": "8ed45c2d39397362",
+      "kind": "selection",
+      "region": "selection_opponent_icon_6"
+    },
+    {
+      "pokemon_id": "n1023",
+      "pokemon_name": "ブリジュラス",
+      "hash": "be37ec09d02589ea",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_2"
+    },
+    {
+      "pokemon_id": "n26",
+      "pokemon_name": "ライチュウ",
+      "hash": "c03d19c63ec939d9",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n678",
+      "pokemon_name": "ニャオニクス♂",
+      "hash": "eecc900d393937e2",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n977",
+      "pokemon_name": "サーフゴー",
+      "hash": "ccad624cb767c232",
+      "kind": "battle",
+      "region": "battle_own_active_icon"
+    },
+    {
+      "pokemon_id": "n475",
+      "pokemon_name": "エルレイド",
+      "hash": "f13ae19a989b6c64",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n678m",
+      "pokemon_name": "メガニャオニクス♂",
+      "hash": "9b32c6a467ce2ccc",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n497",
+      "pokemon_name": "ジャローダ",
+      "hash": "994da7c367664998",
+      "kind": "selection",
+      "region": "selection_opponent_icon_3"
+    },
+    {
+      "pokemon_id": "n977",
+      "pokemon_name": "サーフゴー",
+      "hash": "e8f52248f363ca36",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_6"
+    },
+    {
+      "pokemon_id": "n445m",
+      "pokemon_name": "メガガブリアス",
+      "hash": "d3d00c2cf392fa65",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n376",
+      "pokemon_name": "メタグロス",
+      "hash": "c29d3fe0e628ca87",
+      "kind": "selection",
+      "region": "selection_opponent_icon_5"
+    },
+    {
+      "pokemon_id": "n376m",
+      "pokemon_name": "メガメタグロス",
+      "hash": "93912a2e6c2a5eee",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n260",
+      "pokemon_name": "ラグラージ",
+      "hash": "8558229b2c07f7fc",
+      "kind": "selection",
+      "region": "selection_opponent_icon_6"
+    },
+    {
+      "pokemon_id": "n184",
+      "pokemon_name": "マリルリ",
+      "hash": "d0374ff0338528d7",
+      "kind": "selection_standby",
+      "region": "standby_opponent_icon_3"
+    },
+    {
+      "pokemon_id": "n475",
+      "pokemon_name": "エルレイド",
+      "hash": "c11ee51ed9c1663c",
+      "kind": "selection",
+      "region": "selection_opponent_icon_1"
+    },
+    {
+      "pokemon_id": "n475m",
+      "pokemon_name": "メガエルレイド",
+      "hash": "821c63ee61b7746c",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n1023",
+      "pokemon_name": "ブリジュラス",
+      "hash": "aaf5fca9982589e0",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_2"
+    },
+    {
+      "pokemon_id": "n977",
+      "pokemon_name": "サーフゴー",
+      "hash": "8d6952eda736d222",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_6"
+    },
+    {
+      "pokemon_id": "n448m",
+      "pokemon_name": "メガルカリオ",
+      "hash": "d8d87162873929cf",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n257",
+      "pokemon_name": "バシャーモ",
+      "hash": "e01eeb90878f1d2d",
+      "kind": "selection",
+      "region": "selection_opponent_icon_4"
+    },
+    {
+      "pokemon_id": "n861",
+      "pokemon_name": "オーロンゲ",
+      "hash": "929ce71e7224a13f",
+      "kind": "selection",
+      "region": "selection_opponent_icon_6"
+    },
+    {
+      "pokemon_id": "n861",
+      "pokemon_name": "オーロンゲ",
+      "hash": "fb2dfce08274c093",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n257m",
+      "pokemon_name": "メガバシャーモ",
+      "hash": "ac8ccde42c3661e7",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n479h",
+      "pokemon_name": "ヒートロトム",
+      "hash": "cfdb797165212382",
+      "kind": "selection_standby",
+      "region": "standby_opponent_icon_3"
+    },
+    {
+      "pokemon_id": "n545",
+      "pokemon_name": "ペンドラー",
+      "hash": "9842678e639b6763",
+      "kind": "selection",
+      "region": "selection_opponent_icon_2"
+    },
+    {
+      "pokemon_id": "n545",
+      "pokemon_name": "ペンドラー",
+      "hash": "fbaa261c34b12676",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n132",
+      "pokemon_name": "メタモン",
+      "hash": "d65f0929a0b8d0df",
+      "kind": "selection",
+      "region": "selection_opponent_icon_6"
+    },
+    {
+      "pokemon_id": "n903",
+      "pokemon_name": "オオニューラ",
+      "hash": "8fad2931c3cb431b",
+      "kind": "selection",
+      "region": "selection_opponent_icon_5"
+    },
+    {
+      "pokemon_id": "n135",
+      "pokemon_name": "サンダース",
+      "hash": "96a53e4a7d523136",
+      "kind": "selection_standby",
+      "region": "standby_opponent_icon_2"
     }
   ]
 }
