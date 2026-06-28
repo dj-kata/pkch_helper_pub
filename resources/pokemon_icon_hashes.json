@@ -11625,6 +11625,699 @@
       "hash": "96a53e4a7d523136",
       "kind": "selection_standby",
       "region": "standby_opponent_icon_2"
+    },
+    {
+      "pokemon_id": "n560",
+      "pokemon_name": "ズルズキン",
+      "hash": "bf8d967c38c430c3",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_1"
+    },
+    {
+      "pokemon_id": "n861",
+      "pokemon_name": "オーロンゲ",
+      "hash": "85d34b5c78a48577",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_2"
+    },
+    {
+      "pokemon_id": "n691",
+      "pokemon_name": "ドラミドロ",
+      "hash": "b71aac935349eca4",
+      "kind": "battle",
+      "region": "battle_own_active_icon"
+    },
+    {
+      "pokemon_id": "n691m",
+      "pokemon_name": "メガドラミドロ",
+      "hash": "c629a9d6b90dbf10",
+      "kind": "battle",
+      "region": "battle_own_active_icon"
+    },
+    {
+      "pokemon_id": "n823",
+      "pokemon_name": "アーマーガア",
+      "hash": "b9a55a71c54ad932",
+      "kind": "battle",
+      "region": "battle_own_active_icon"
+    },
+    {
+      "pokemon_id": "n560",
+      "pokemon_name": "ズルズキン",
+      "hash": "cf8a963c3cc570e1",
+      "kind": "battle",
+      "region": "battle_own_active_icon"
+    },
+    {
+      "pokemon_id": "n560",
+      "pokemon_name": "ズルズキン",
+      "hash": "c748a43c3ccf63e1",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_1"
+    },
+    {
+      "pokemon_id": "n861",
+      "pokemon_name": "オーロンゲ",
+      "hash": "fd2b194c58e494e3",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_2"
+    },
+    {
+      "pokemon_id": "n1005",
+      "pokemon_name": "ソウブレイズ",
+      "hash": "bcb1c532d30a2d7c",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n303",
+      "pokemon_name": "クチート",
+      "hash": "885b776c889953b6",
+      "kind": "selection",
+      "region": "selection_opponent_icon_1"
+    },
+    {
+      "pokemon_id": "n858",
+      "pokemon_name": "ブリムオン",
+      "hash": "9ac6939639699669",
+      "kind": "selection",
+      "region": "selection_opponent_icon_6"
+    },
+    {
+      "pokemon_id": "n303m",
+      "pokemon_name": "メガクチート",
+      "hash": "989267676d4cce34",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n911",
+      "pokemon_name": "ラウドボーン",
+      "hash": "99a6d59878079ef0",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_1"
+    },
+    {
+      "pokemon_id": "n479c",
+      "pokemon_name": "カットロトム",
+      "hash": "db9bb4969e786088",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n911",
+      "pokemon_name": "ラウドボーン",
+      "hash": "d9220fdef8073e60",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_1"
+    },
+    {
+      "pokemon_id": "n376",
+      "pokemon_name": "メタグロス",
+      "hash": "c1aa3ce5c319cad6",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n149m",
+      "pokemon_name": "メガカイリュー",
+      "hash": "8eca799cda3198a3",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n302",
+      "pokemon_name": "ヤミラミ",
+      "hash": "fa9da48db3811c6a",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_6"
+    },
+    {
+      "pokemon_id": "n571h",
+      "pokemon_name": "ヒスイゾロアーク",
+      "hash": "d1dac39e0b4d9833",
+      "kind": "selection",
+      "region": "selection_opponent_icon_5"
+    },
+    {
+      "pokemon_id": "n944",
+      "pokemon_name": "ミミズズ",
+      "hash": "cd3b1b3236c13317",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n604",
+      "pokemon_name": "シビルドン",
+      "hash": "b595699aa553a546",
+      "kind": "selection",
+      "region": "selection_opponent_icon_4"
+    },
+    {
+      "pokemon_id": "n121",
+      "pokemon_name": "スターミー",
+      "hash": "94cf09156ae93b4e",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n121m",
+      "pokemon_name": "メガスターミー",
+      "hash": "939fc6cf580884ed",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n26y",
+      "pokemon_name": "メガライチュウY",
+      "hash": "e199e06d69ec0cd6",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n260m",
+      "pokemon_name": "メガラグラージ",
+      "hash": "946b90dfb5136f80",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n902",
+      "pokemon_name": "イダイトウ♂",
+      "hash": "9749a9abcea8a14b",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n1023",
+      "pokemon_name": "ブリジュラス",
+      "hash": "d0097e43f2351de9",
+      "kind": "selection_standby",
+      "region": "standby_opponent_icon_3"
+    },
+    {
+      "pokemon_id": "n691",
+      "pokemon_name": "ドラミドロ",
+      "hash": "c8e4e371319966ce",
+      "kind": "selection",
+      "region": "selection_opponent_icon_4"
+    },
+    {
+      "pokemon_id": "n142",
+      "pokemon_name": "プテラ",
+      "hash": "c7f433870c62d8f4",
+      "kind": "selection",
+      "region": "selection_opponent_icon_6"
+    },
+    {
+      "pokemon_id": "n350",
+      "pokemon_name": "ミロカロス",
+      "hash": "cc0963c61bfc21bd",
+      "kind": "selection",
+      "region": "selection_opponent_icon_3"
+    },
+    {
+      "pokemon_id": "n1025",
+      "pokemon_name": "ヤバソチャ",
+      "hash": "bd16e0b097475a4d",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_6"
+    },
+    {
+      "pokemon_id": "n254",
+      "pokemon_name": "ジュカイン",
+      "hash": "d2657edb5191f600",
+      "kind": "selection",
+      "region": "selection_opponent_icon_6"
+    },
+    {
+      "pokemon_id": "n927",
+      "pokemon_name": "クエスパトラ",
+      "hash": "8e95d1753a9a8565",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n604",
+      "pokemon_name": "シビルドン",
+      "hash": "b53569489d59b147",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n604m",
+      "pokemon_name": "メガシビルドン",
+      "hash": "9b9f6d6429295a52",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n925",
+      "pokemon_name": "ハカドッグ",
+      "hash": "94a467871ced876c",
+      "kind": "selection",
+      "region": "selection_opponent_icon_1"
+    },
+    {
+      "pokemon_id": "n142",
+      "pokemon_name": "プテラ",
+      "hash": "c5b43187243bf8f2",
+      "kind": "selection_standby",
+      "region": "standby_opponent_icon_6"
+    },
+    {
+      "pokemon_id": "n858",
+      "pokemon_name": "ブリムオン",
+      "hash": "db969652216d9a4d",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_6"
+    },
+    {
+      "pokemon_id": "n855",
+      "pokemon_name": "ポットデス",
+      "hash": "c6be3d09c0c8cbba",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n282m",
+      "pokemon_name": "メガサーナイト",
+      "hash": "c6494eececa4c5c5",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n637",
+      "pokemon_name": "ウルガモス",
+      "hash": "d3c3385c5ebf00e8",
+      "kind": "selection_standby",
+      "region": "standby_opponent_icon_5"
+    },
+    {
+      "pokemon_id": "n503h",
+      "pokemon_name": "ヒスイダイケンキ",
+      "hash": "cd8c34464e7879d9",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_1"
+    },
+    {
+      "pokemon_id": "n713",
+      "pokemon_name": "クレベース",
+      "hash": "aad56f09113f6466",
+      "kind": "selection",
+      "region": "selection_opponent_icon_2"
+    },
+    {
+      "pokemon_id": "n715",
+      "pokemon_name": "オンバーン",
+      "hash": "8d4831be4e11f6cd",
+      "kind": "selection",
+      "region": "selection_opponent_icon_4"
+    },
+    {
+      "pokemon_id": "n257",
+      "pokemon_name": "バシャーモ",
+      "hash": "f81eda981fca5889",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n715",
+      "pokemon_name": "オンバーン",
+      "hash": "aed271a4ce3136cc",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n3",
+      "pokemon_name": "フシギバナ",
+      "hash": "e87933932a483f63",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_2"
+    },
+    {
+      "pokemon_id": "n689",
+      "pokemon_name": "ガメノデス",
+      "hash": "809c6a5f78c99cab",
+      "kind": "selection",
+      "region": "selection_opponent_icon_6"
+    },
+    {
+      "pokemon_id": "n1005",
+      "pokemon_name": "ソウブレイズ",
+      "hash": "bc514bad54a22d7c",
+      "kind": "selection_standby",
+      "region": "standby_opponent_icon_5"
+    },
+    {
+      "pokemon_id": "n479w",
+      "pokemon_name": "ウォッシュロトム",
+      "hash": "92914d3ef8e151d3",
+      "kind": "selection_standby",
+      "region": "standby_opponent_icon_4"
+    },
+    {
+      "pokemon_id": "n254",
+      "pokemon_name": "ジュカイン",
+      "hash": "dae53cdac921f221",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n823",
+      "pokemon_name": "アーマーガア",
+      "hash": "e5898a7a55cb5a31",
+      "kind": "selection",
+      "region": "selection_opponent_icon_3"
+    },
+    {
+      "pokemon_id": "n479w",
+      "pokemon_name": "ウォッシュロトム",
+      "hash": "9b950d6aba6155c3",
+      "kind": "selection_standby",
+      "region": "standby_opponent_icon_2"
+    },
+    {
+      "pokemon_id": "n587",
+      "pokemon_name": "エモンガ",
+      "hash": "92c33d3de6d29861",
+      "kind": "selection",
+      "region": "selection_opponent_icon_1"
+    },
+    {
+      "pokemon_id": "n376",
+      "pokemon_name": "メタグロス",
+      "hash": "821d3d74a609db97",
+      "kind": "selection",
+      "region": "selection_opponent_icon_2"
+    },
+    {
+      "pokemon_id": "n376",
+      "pokemon_name": "メタグロス",
+      "hash": "c8173de4a728c397",
+      "kind": "selection_standby",
+      "region": "standby_opponent_icon_3"
+    },
+    {
+      "pokemon_id": "n658m",
+      "pokemon_name": "メガゲッコウガ",
+      "hash": "b933cc7399998983",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n967",
+      "pokemon_name": "キラフロル",
+      "hash": "fc10870fc0f8df07",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n9m",
+      "pokemon_name": "メガカメックス",
+      "hash": "8d5c4ad8698de574",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n623",
+      "pokemon_name": "ゴルーグ",
+      "hash": "96ca3564abcd036b",
+      "kind": "selection",
+      "region": "selection_opponent_icon_6"
+    },
+    {
+      "pokemon_id": "n9",
+      "pokemon_name": "カメックス",
+      "hash": "ad759d0d4c569741",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n706",
+      "pokemon_name": "ヌメルゴン",
+      "hash": "85497eb53ac96307",
+      "kind": "selection",
+      "region": "selection_opponent_icon_6"
+    },
+    {
+      "pokemon_id": "n257",
+      "pokemon_name": "バシャーモ",
+      "hash": "f82f92585af8d8c1",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_2"
+    },
+    {
+      "pokemon_id": "n730",
+      "pokemon_name": "アシレーヌ",
+      "hash": "b46d70508b7755a6",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n823",
+      "pokemon_name": "アーマーガア",
+      "hash": "8da48a7a5ccb58b3",
+      "kind": "selection",
+      "region": "selection_opponent_icon_4"
+    },
+    {
+      "pokemon_id": "n518",
+      "pokemon_name": "ムシャーナ",
+      "hash": "9db06371546e27cc",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n584",
+      "pokemon_name": "バイバニラ",
+      "hash": "8cb74c05b3fc4e68",
+      "kind": "selection_standby",
+      "region": "standby_opponent_icon_1"
+    },
+    {
+      "pokemon_id": "n584",
+      "pokemon_name": "バイバニラ",
+      "hash": "9cb64d0c33f0786e",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n666",
+      "pokemon_name": "ビビヨン",
+      "hash": "b7bd2d0e0da15331",
+      "kind": "selection",
+      "region": "selection_opponent_icon_1"
+    },
+    {
+      "pokemon_id": "n861",
+      "pokemon_name": "オーロンゲ",
+      "hash": "d39de516e274811b",
+      "kind": "selection",
+      "region": "selection_opponent_icon_2"
+    },
+    {
+      "pokemon_id": "n571",
+      "pokemon_name": "ゾロアーク",
+      "hash": "d25fecd60a35c20d",
+      "kind": "selection",
+      "region": "selection_opponent_icon_6"
+    },
+    {
+      "pokemon_id": "n571",
+      "pokemon_name": "ゾロアーク",
+      "hash": "d663cceb520e814f",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n784",
+      "pokemon_name": "ジャラランガ",
+      "hash": "86ca3b6de037c29c",
+      "kind": "selection",
+      "region": "selection_opponent_icon_3"
+    },
+    {
+      "pokemon_id": "n460",
+      "pokemon_name": "ユキノオー",
+      "hash": "85d65bc672ab304b",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n460m",
+      "pokemon_name": "メガユキノオー",
+      "hash": "878000dfff75853c",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n197",
+      "pokemon_name": "ブラッキー",
+      "hash": "c1ab3b1f56e46464",
+      "kind": "selection_standby",
+      "region": "standby_opponent_icon_5"
+    },
+    {
+      "pokemon_id": "n282m",
+      "pokemon_name": "メガサーナイト",
+      "hash": "844b0f6f3eec55c0",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n442",
+      "pokemon_name": "ミカルゲ",
+      "hash": "94eb1d40cdbd4b43",
+      "kind": "selection",
+      "region": "selection_opponent_icon_3"
+    },
+    {
+      "pokemon_id": "n376",
+      "pokemon_name": "メタグロス",
+      "hash": "c28a3d75e20bd996",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n376m",
+      "pokemon_name": "メガメタグロス",
+      "hash": "fa910eeef0022fe4",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n411",
+      "pokemon_name": "トリデプス",
+      "hash": "8f5252af2ad71a94",
+      "kind": "selection",
+      "region": "selection_opponent_icon_6"
+    },
+    {
+      "pokemon_id": "n784",
+      "pokemon_name": "ジャラランガ",
+      "hash": "a5ce356da0b1c2bc",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n26x",
+      "pokemon_name": "メガライチュウX",
+      "hash": "e818d3ef38621ec5",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n497",
+      "pokemon_name": "ジャローダ",
+      "hash": "99cd8643e3a68d99",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n3",
+      "pokemon_name": "フシギバナ",
+      "hash": "8a193bb3abc82f23",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n500m",
+      "pokemon_name": "メガエンブオー",
+      "hash": "8ab43d9672cac536",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n407",
+      "pokemon_name": "ロズレイド",
+      "hash": "99c78381e1b92ed3",
+      "kind": "selection",
+      "region": "selection_opponent_icon_4"
+    },
+    {
+      "pokemon_id": "n128b",
+      "pokemon_name": "ケンタロス(パルデア炎)",
+      "hash": "fd53bc73c4883454",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_1"
+    },
+    {
+      "pokemon_id": "n130",
+      "pokemon_name": "ギャラドス",
+      "hash": "ec15e36b852a9e98",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_4"
+    },
+    {
+      "pokemon_id": "n908",
+      "pokemon_name": "マスカーニャ",
+      "hash": "b44cf272398f9554",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_5"
+    },
+    {
+      "pokemon_id": "n691",
+      "pokemon_name": "ドラミドロ",
+      "hash": "e0c0e3f3e1c9e4cc",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_1"
+    },
+    {
+      "pokemon_id": "n208",
+      "pokemon_name": "ハガネール",
+      "hash": "d8ece7d8cad33024",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n691",
+      "pokemon_name": "ドラミドロ",
+      "hash": "80e4e1f1f3496cce",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_1"
+    },
+    {
+      "pokemon_id": "n142",
+      "pokemon_name": "プテラ",
+      "hash": "ec40d907c7b1eb4a",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_1"
+    },
+    {
+      "pokemon_id": "n784",
+      "pokemon_name": "ジャラランガ",
+      "hash": "b5f6bd2126d1c22c",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_2"
+    },
+    {
+      "pokemon_id": "n248m",
+      "pokemon_name": "メガバンギラス",
+      "hash": "d58e2d292f7a4983",
+      "kind": "battle",
+      "region": "battle_opponent_active_icon"
+    },
+    {
+      "pokemon_id": "n841",
+      "pokemon_name": "アップリュー",
+      "hash": "ccbe375141032ef9",
+      "kind": "selection",
+      "region": "selection_opponent_icon_6"
+    },
+    {
+      "pokemon_id": "n584",
+      "pokemon_name": "バイバニラ",
+      "hash": "b49ce74c37a0685e",
+      "kind": "selection_standby",
+      "region": "standby_own_icon_4"
+    },
+    {
+      "pokemon_id": "n553",
+      "pokemon_name": "ワルビアル",
+      "hash": "9cd963a74652985d",
+      "kind": "selection",
+      "region": "selection_opponent_icon_5"
     }
   ]
 }
